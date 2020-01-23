@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Samsung",
+    "price": 399
+  },
+  {
+    "brand": "Apple",
+    "price": 599
+  },
+  {
+    "brand": "LG",
+    "price": 299
+  }
+]
